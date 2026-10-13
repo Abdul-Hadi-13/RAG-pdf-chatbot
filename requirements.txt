@@ -15,7 +15,9 @@ chromadb
 
 # Embedding Models
 
-sentence-transformers
+
+sentence-transformers==3.3.1
+transformers==4.46.3
 
 # Document Loaders dependencies
 
