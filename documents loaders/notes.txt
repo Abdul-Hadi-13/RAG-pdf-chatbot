@@ -1,0 +1,17 @@
+Data Science
+Data science is an interdisciplinary field that combines math, statistics, programming, advanced analytics, and domain expertise to extract actionable insights and knowledge from structured and unstructured data.
+• Core Focus: Cleaning, processing, analyzing, and visualizing data to solve complex problems and forecast future trends.
+• Key Lifecycle Stages: Data ingestion/collection, storage and cleaning, exploratory data analysis, predictive modeling, and communicating findings.
+• Common Tools: Python, R, SQL, and Tableau.
+Artificial Intelligence (AI)
+Artificial intelligence is a branch of computer science focused on building machine-based systems that can mimic human cognition, reasoning, learning, and problem-solving to perform complex, open-ended tasks.
+• Core Focus: Creating autonomous or semi-autonomous systems that perceive their environment, make decisions, and improve accuracy over time without explicit step-by-step programming.
+• Subfields: Machine learning, natural language processing (NLP), and computer vision.
+• Relationship to Data Science: Data science provides the data framework and statistical insights required to train and fuel AI models.
+Statistics
+Statistics is the mathematical science dedicated to collecting, analyzing, interpreting, presenting, and organizing empirical data.
+• Core Focus: Turning raw numbers into meaningful summaries and measuring uncertainty or probabilities.
+• Key Branches:
+	• Descriptive statistics (summarizing historical data using mean, median, mode, and standard deviation).
+	• Inferential statistics (making predictions, testing hypotheses, and drawing conclusions about a larger population based on a smaller sample).
+• Relationship to the Others: Statistics serves as the quantitative foundation underpinning both data science algorithms and AI machine learning models.
